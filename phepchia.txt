@@ -5,4 +5,7 @@ phep nhan
 
 sin
 cos
-logitedch
+
+
+ban da bi hack
+
